@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "501280622669",
+    "project_id": "wanh03",
+    "storage_bucket": "wanh03.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501280622669:android:d6a473f843b3ec529e3404",
+        "android_client_info": {
+          "package_name": "com.mware.polyshoprestapi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlzWrJpi6rVHOA9OlNclqtgrF7Xzi7o84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
